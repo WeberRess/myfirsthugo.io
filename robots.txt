@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://weberress.github.io/myfirsthugo.io/sitemap.xml

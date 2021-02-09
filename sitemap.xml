@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/</loc>
     <lastmod>2021-02-09T15:29:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/blog/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/blog/</loc>
     <lastmod>2021-02-09T15:29:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/markdown/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/blog/markdown/</loc>
     <lastmod>2021-02-09T15:29:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/my-new-second-post/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/my-new-second-post/</loc>
     <lastmod>2021-02-09T15:29:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/blog/syntax/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/blog/syntax/</loc>
     <lastmod>2021-02-09T15:29:15+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/markdown-syntax-guide/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/markdown-syntax-guide/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/bear/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/bear/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/hugo/</loc>
+    <loc>https://weberress.github.io/myfirsthugo.io/hugo/</loc>
   </url>
   
 </urlset>
